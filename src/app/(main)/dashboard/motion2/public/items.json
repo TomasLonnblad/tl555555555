@@ -1,0 +1,36 @@
+
+{
+    "items": {
+      "bootstrap": [
+        {
+          "id": 1,
+          "title": "Wild Life",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "https://tomaslonnblad.github.io/6.jpg",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        },
+        {
+          "id": 2,
+          "title": "Foods and Culture",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "https://tomaslonnblad.github.io/4.jpg",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        },
+        {
+          "id": 3,
+          "title": "City Life",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "https://tomaslonnblad.github.io/5.jpg",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        },
+        {
+          "id": 4,
+          "title": "Photography",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "https://tomaslonnblad.github.io/3.jpg",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        }
+      ]
+    }
+  }
+  
